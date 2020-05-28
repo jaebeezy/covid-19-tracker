@@ -2,7 +2,7 @@
   "name": "covid_19_tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jaebeezy.github.com/covid-19-tracker",
+  "homepage": "https://jaebeezy.github.io/covid-19-tracker",
   "dependencies": {
     "@material-ui/core": "^4.9.14",
     "@testing-library/jest-dom": "^4.2.4",
